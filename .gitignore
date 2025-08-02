@@ -1,0 +1,44 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# VS Code settings
+.vscode/
+
+# pytest cache
+.pytest_cache/
+
+# Environment variables and secrets
+.env
+
+# Logs
+*.log
+
+# MacOS metadata
+.DS_Store
+
+# uv specific
+.uv/
+
+# Python egg info
+*.egg-info/
+dist/
+build/
